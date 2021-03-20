@@ -1,1 +1,1 @@
-This project is for test puproses only, experiments with git and github.
+This project is for test puproses only, experiments with git and github
